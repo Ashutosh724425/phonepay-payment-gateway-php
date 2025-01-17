@@ -1,0 +1,596 @@
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT-56388292955
+    [merchantUserId] => M-675ae135a9677
+    [amount] => 100
+    [redirectUrl] => http://localhost:8082/g/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost:8082/g/paymentstatus.php
+    [mobileNumber] => 6546456456
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT-30017722923
+    [merchantUserId] => M-675ae15a5ccd5
+    [amount] => 100
+    [redirectUrl] => http://localhost:8082/g/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost:8082/g/paymentstatus.php
+    [mobileNumber] => 6546456456
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT-81483017635
+    [merchantUserId] => M-675ae1dd1e8ad
+    [amount] => 100
+    [redirectUrl] => http://localhost:8082/g/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost:8082/g/paymentstatus.php
+    [mobileNumber] => 6546456456
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 0d84a05eb20e9b7b0b7f98efa89d8449afe0bb43bfe023860a74e50c8caf5bcf###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT-65473612965
+    [merchantUserId] => M-675ae1ee32ae1
+    [amount] => 100
+    [redirectUrl] => http://localhost:8082/g/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost:8082/g/paymentstatus.php
+    [mobileNumber] => 6546456456
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 246a60ab00312e627985468bf89024e17e6c7624fc29ab210ae4c307ff78a8e9###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT-69284871834
+    [merchantUserId] => M-675ae26b43019
+    [amount] => 100
+    [redirectUrl] => http://localhost:8082/g/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost:8082/g/paymentstatus.php
+    [mobileNumber] => 6546456456
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 52e79476351b75059a503b3241169c7ea962e7c3bdc1852fe09932374686d132###1
+Payload: Array
+(
+    [merchantId] => M22L8PSPH7WHK
+    [merchantTransactionId] => MT-9455184114
+    [merchantUserId] => M-675ae28695114
+    [amount] => 100
+    [redirectUrl] => http://localhost:8082/g/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost:8082/g/paymentstatus.php
+    [mobileNumber] => 6546456456
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: a307b6d466f1efbd41d96da0d80c494bc486a3dd64b24eee6bcf314d711b481e###1
+Payload: Array
+(
+    [merchantId] => M22L8PSPH7WHK
+    [merchantTransactionId] => MT-67182227894
+    [merchantUserId] => M-675ae3c51bbd3
+    [amount] => 100
+    [redirectUrl] => http://localhost:8082/g/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost:8082/g/paymentstatus.php
+    [mobileNumber] => 6546456456
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 40649bcd0be31c7b3235ad85483b0ad6d0f11f8f66436a88d0c721bb1870c3de###1
+Payload: Array
+(
+    [merchantId] => M22L8PSPH7WHK
+    [merchantTransactionId] => MT-30367701294
+    [merchantUserId] => M-675ae6680d287
+    [amount] => 100
+    [redirectUrl] => http://localhost:8082/g/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost:8082/g/paymentstatus.php
+    [mobileNumber] => 9169971149
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 87cc9400fedd2289c6902a5a4dbd91d13923c02f9b8eda432b104d4684fc25a3###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT-25736421685
+    [merchantUserId] => M-675ae6868f503
+    [amount] => 100
+    [redirectUrl] => http://localhost:8082/g/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost:8082/g/paymentstatus.php
+    [mobileNumber] => 6546456456
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: a71f4845c1bf742e6e9e4bd492e064913afa3648d375d081e2b76f6c7df2c1b0###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT-69755261471
+    [merchantUserId] => M-675bc665859c5
+    [amount] => 100
+    [redirectUrl] => http://localhost:8082/g/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost:8082/g/paymentstatus.php
+    [mobileNumber] => 6546456456
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 13be74f0dcf12dcc707ff99f40b1c3c879f20ec400c288ec39298848ee19f746###1
+Payload: Array
+(
+    [merchantId] => M22L8PSPH7WHK
+    [merchantTransactionId] => MT-45670290561
+    [merchantUserId] => M-675bc688a3290
+    [amount] => 100
+    [redirectUrl] => http://localhost:8082/g/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost:8082/g/paymentstatus.php
+    [mobileNumber] => 6546456456
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: fd4af381f28d4d2f8dbb49f1edab32e6b3a791ae354120fe651f44c5397bc99a###1
+Payload: Array
+(
+    [merchantId] => M22L8PSPH7WHK
+    [merchantTransactionId] => MT-39028313432
+    [merchantUserId] => M-675be3251a2f3
+    [amount] => 100
+    [redirectUrl] => https://alightwaysolutions.com/payment/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => https://alightwaysolutions.com/payment/paymentstatus.php
+    [mobileNumber] => 6546456456
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 04d9b24f1676a900a5437518eb4eb649b7c73928dc42d32bacdfd47ede58bdde###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT-73718339927
+    [merchantUserId] => M-67641d1eb879c
+    [amount] => 699200
+    [redirectUrl] => https://alightwaysolutions.com/payment/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => https://alightwaysolutions.com/payment/paymentstatus.php
+    [clientId] => 874674
+    [paymentMethod] => Cash
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 7d2e31a51a5b37b48a73f935368f776b5e9d8f684968f5ba246aae611db11641###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT-21442723751
+    [merchantUserId] => M-67641d603728c
+    [amount] => 699200
+    [redirectUrl] => https://alightwaysolutions.com/payment/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => https://alightwaysolutions.com/payment/paymentstatus.php
+    [clientId] => 874674
+    [paymentMethod] => Cash
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: a31c691703cd5d4520f18c3790b6f32f2015daa763ba250142ce0928e3998987###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT92243002799
+    [merchantUserId] => M-6764209fe080b
+    [amount] => 699200
+    [redirectUrl] => https://alightwaysolutions.com/payment/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => https://alightwaysolutions.com/payment/paymentstatus.php
+    [clientId] => 874674
+    [paymentMethod] => Cash
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 780a6196f99e272361924d55777ac35e66b026885535f523cbd1613a2678bfc1###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT61981776856
+    [merchantUserId] => M-6764215358fbf
+    [amount] => 699200
+    [redirectUrl] => https://alightwaysolutions.com/payment/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => https://alightwaysolutions.com/payment/paymentstatus.php
+    [clientId] => 874674
+    [paymentMethod] => Cash
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 4edea1974b1e418f08cd68ac24b077e02340534f3aadf4680dc1c29393f46a0a###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT12819677635
+    [merchantUserId] => M-67653f5a8f3bf
+    [amount] => 3679310
+    [redirectUrl] => https://alightwaysolutions.com/payment/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => https://alightwaysolutions.com/payment/paymentstatus.php
+    [clientId] => 874674
+    [paymentMethod] => Bank Transfer
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: b2c78906ff6c83e78ab2d1134160fbc89251b5fa1d66ed017d44c2b6a9dac675###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT82169642873
+    [merchantUserId] => M-6765598b270ba
+    [amount] => 3679310
+    [redirectUrl] => https://alightwaysolutions.com/payment/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => https://alightwaysolutions.com/payment/paymentstatus.php
+    [clientId] => 874674
+    [paymentMethod] => Credit Card
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 2d258ee9fb36fade6d7bd08f896d5f76ea604f62ee023e506428c27ae23e71d8###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT99596522317
+    [merchantUserId] => M-67655a24cf9eb
+    [amount] => 3679310
+    [redirectUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [clientId] => 874674
+    [paymentMethod] => Cash
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 6b45da5064f02d0c3e2305d26f0ade6b65f0208110f56aa0124ffecc84cf5924###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT54497602845
+    [merchantUserId] => M-67655aa56ba20
+    [amount] => 3679310
+    [redirectUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [clientId] => 874674
+    [paymentMethod] => Cash
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: d2a0a0792efacca98520b0f18fb39de141f2ea4fe4dd0bf4c357f3b70263ab59###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT46792630556
+    [merchantUserId] => M-676566043719a
+    [amount] => 3679310
+    [redirectUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [clientId] => 874674
+    [paymentMethod] => Cash
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 8402be58990a6dbf86c2333d2488c50cf2f3a7248ea3a0459b4fe1649086949f###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT37283369530
+    [merchantUserId] => M-6765683f789e7
+    [amount] => 699200
+    [redirectUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [clientId] => 874674
+    [paymentMethod] => Cash
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: be5506b492ba0c1a6017e6de8cabcb461a0308ca7841797a37f3fcb622cb01f5###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT32729939215
+    [merchantUserId] => M-67656b175a369
+    [amount] => 699200
+    [redirectUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [clientId] => 874674
+    [paymentMethod] => Cash
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: e73dbc0d1713a4f2db70812ba4403acb9f6e19295b9d2407a18d681214dd4208###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT46587595950
+    [merchantUserId] => M-6766525b94b7a
+    [amount] => 699200
+    [redirectUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [clientId] => 874674
+    [paymentMethod] => Cash
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: cc933122431ded66a1ff0900afdad0dfd84ac23f1998d4812f15d8355967cd56###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT23402763075
+    [merchantUserId] => M-6766558b56fcb
+    [amount] => 699200
+    [redirectUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [clientId] => 874674
+    [paymentMethod] => Cash
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: f0fc5ff7be6001bec49c143808825b52d7f0269d3ff84f3b5ff6612dc939bc31###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT82421953754
+    [merchantUserId] => M-6766570659e73
+    [amount] => 699200
+    [redirectUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [clientId] => 874674
+    [paymentMethod] => Cash
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 2edd5e977b47015cbb8992005ad3667690b9b3eb42f71d80149d441a257fa81e###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT70517438772
+    [merchantUserId] => M-676659622605c
+    [amount] => 699200
+    [redirectUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [clientId] => 874674
+    [order_id] => 120
+    [email] => www.ashutosh12000@gmail.com
+    [paymentMethod] => Cash
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 4b4b5a4b10a8ae35514315de4a4a4b7c617f2b80d42f06bb1fa075b74364d3df###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT85944067275
+    [merchantUserId] => M-676664b73314b
+    [amount] => 699200
+    [redirectUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [clientId] => 874674
+    [order_id] => 120
+    [email] => www.ashutosh12000@gmail.com
+    [paymentMethod] => Cash
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 5579b9284dab0dadaa1b1731da6e1457393bcddcb76a9dfe8e03b1ca6c04a4fb###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT-43813004063
+    [merchantUserId] => M-676666ac65072
+    [amount] => 699200
+    [redirectUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [mobileNumber] => 6546456456
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: aeb1a36e4add8067e5a617656ac36ca039e60fde004d0936238e58810b330798###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT-10282336985
+    [merchantUserId] => M-67666a09e739c
+    [amount] => 699200
+    [redirectUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [mobileNumber] => 9169971149
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 3a7af6c37f5ad52baf7e4eb15a730937fa3e877804536152387900763d1968de###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT-74067492245
+    [merchantUserId] => M-67666c767dc48
+    [amount] => 699200
+    [redirectUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [mobileNumber] => 6546456456
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 890c0c00042379c2a6bf917c2cb6e77b0e98178c1280de7b61e266ba72108df6###1
+Payload: Array
+(
+    [merchantId] => M22YF3TMHL5NKUAT
+    [merchantTransactionId] => MT-48080308088
+    [merchantUserId] => M-67666ddf86e13
+    [amount] => 699200
+    [redirectUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [redirectMode] => POST
+    [callbackUrl] => http://localhost/y/inv/pay/paymentstatus.php
+    [mobileNumber] => 6546456456
+    [paymentInstrument] => Array
+        (
+            [type] => PAY_PAGE
+        )
+
+)
+
+Headers: X-VERIFY: 598a7d96087a45a4ba7667e647eb78efb44e61c1c1f865f510e3a862e2584d41###1
